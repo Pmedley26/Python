@@ -1,7 +1,7 @@
 print ("He said, 'Hello'")
 
 
-# Python can't understand spacing between lines of text. 
+# Python can't understand spacing between lines of text. Use triple""" quotation marks to fix this
 
 
 x = "Hello"
